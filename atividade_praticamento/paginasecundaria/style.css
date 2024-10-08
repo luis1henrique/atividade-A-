@@ -1,0 +1,45 @@
+.card-curso {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 900px;
+   
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-banner {
+    width: 100%;
+    height: 400px;
+    
+    
+}
+
+.card-img {
+    height: 400px;
+    width: 900px;
+}
+.card-buttoes{
+    margin-top: 20px;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+ 
+}
+#cor{
+    color: #ccc;
+}
+.btn {
+    height: 40px;
+    width: 130px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2 2 2 2 #ccc;
+    background-color: rgb(18, 60, 177);
+}
